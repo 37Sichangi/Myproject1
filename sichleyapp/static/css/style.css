@@ -1,0 +1,36 @@
+.body
+{
+    margin: 0%;
+    padding: 0%;
+    background-color: brown;
+    align-items: center;
+    align-content: center;
+
+}
+form{
+    background-color: blue;
+    padding: 0%;
+    margin: 0%;
+    align-items: center;
+
+}
+div{
+    background-color: blue;
+    padding: 0%;
+    margin: 0%;
+}
+ table{
+    color: brown;
+    font-size: 4rem;
+    font-style: normal;
+    padding: 0%;
+    margin: 0%;
+ }
+container{
+    margin: 0%;
+    padding: 0%;
+    background-color: blueviolet;
+    align-items: center;
+    align-content: center;
+
+}
